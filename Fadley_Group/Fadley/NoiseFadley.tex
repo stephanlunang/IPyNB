@@ -1,0 +1,292 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Journal Article
+% LaTeX Template
+% Version 1.3 (9/9/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Frits Wenneker (http://www.howtotex.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[twoside]{article}
+
+\usepackage{lipsum} % Package to generate dummy text throughout this template
+
+
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{capt-of}
+\renewcommand{\label}[1]{}
+\def\W#1#2{$#1{#2}$ &\tt\string#1\string{#2\string}}
+\def\X#1{$#1$ &\tt\string#1}
+\def\Y#1{$\big#1$ &\tt\string#1}
+\def\Z#1{\tt\string#1}
+
+
+\usepackage[sc]{mathpazo} % Use the Palatino font
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+\linespread{1.05} % Line spacing - Palatino needs more space between lines
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+
+\usepackage[hmarginratio=1:1,top=32mm,columnsep=20pt]{geometry} % Document margins
+\usepackage{multicol} % Used for the two-column layout of the document
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
+\usepackage{booktabs} % Horizontal rules in tables
+\usepackage{float} % Required for tables and figures in the multi-column environment - they need to be placed in specific locations with the [H] (e.g. \begin{table}[H])
+\usepackage{hyperref} % For hyperlinks in the PDF
+
+\usepackage{lettrine} % The lettrine is the first enlarged letter at the beginning of the text
+\usepackage{paralist} % Used for the compactitem environment which makes bullet points with less space between them
+
+\usepackage{abstract} % Allows abstract customization
+\renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
+\renewcommand{\abstracttextfont}{\normalfont\small\itshape} % Set the abstract itself to small italic text
+
+\usepackage{titlesec} % Allows customization of titles
+\renewcommand\thesection{\Roman{section}} % Roman numerals for the sections
+\renewcommand\thesubsection{\Roman{subsection}} % Roman numerals for subsections
+\titleformat{\section}[block]{\large\scshape\centering}{\thesection.}{1em}{} % Change the look of the section titles
+\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{} % Change the look of the section titles
+
+\usepackage{fancyhdr} % Headers and footers
+\pagestyle{fancy} % All pages have headers and footers
+\fancyhead{} % Blank out the default header
+\fancyfoot{} % Blank out the default footer
+\fancyhead[C]{Noise Study of the HP-West X-ray Spectrometer $\bullet$ March 2015} % Custom header text
+\fancyfoot[RO,LE]{\thepage} % Custom footer text
+
+
+
+\title{\vspace{-15mm}\fontsize{24pt}{10pt}\selectfont\textbf{General Operation and Noise Study of the HP-West X-ray Spectrometer}} % Article title
+
+\author{
+\large
+\textsc{Stephan Ng}\\[2mm] % Your name
+\normalsize University of California - Davis \\ % Your institution
+\normalsize \href{mailto:sang@ucdavis.edu}{sang@ucdavis.edu} % Your email address
+\vspace{-5mm}
+}
+\date{}
+
+
+\usepackage{verbatim}
+
+\begin{document}
+
+%\textbf{I. Abstract}
+
+%\ vspace{10 mm}
+
+\maketitle
+
+\thispagestyle{fancy} % All pages have headers and footers
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\begin{abstract}
+
+\noindent 
+In this experiment, we will measure the distribution of event detected from a Cesium 137 decay using a Geiger counter and determine its likeness to a Gaussian curve through the use of a $\chi ^ 2$ function.. From our data, we determined that the data we collected represented a curve similar to a Gaussian, however, was not within a standard deviation of the Gaussian we should have been seeing in a majority of cases.  
+
+\end{abstract}
+
+\begin{multicols}{2}
+
+\section{Introduction}
+
+\lettrine[nindent=0em,lines=3]{X}
+-ray spectroscopy is the study of materials through the use of the photoelectric effect, a physical phenomenon that describes the emission of electrons from matter (usually a metal) when light is shone upon it. This effect was primarily developed by Albert Einstein, eventually leading to a Nobel Prize in Physics in 1921.  In this study, I used a monochromatized $AlK/alpha$ 1486.6eV radiation source in attempt to determine of noise sources for the HP West X-ray Spectrometer (HPW).  
+
+\vspace{5mm}
+
+The purpose of this experiment was to determine any sources of noise that were inherent to the HPW and attempt to remove it either through a post-collection data analysis methods or through implementing mitigation techniques that would correct the source of the noise. General sources of noise can range anywhere from hot pixels (this may be found in CCD cameras) in which the source of the noise is generated by a section of the machine or detector to digital overflowing (which may be found in any digital system) which are source of noise that are caused digitally, generally, through errors in code. Usually, this noise can be mitigated or ignored through the use of longer run times, which will drive the signal to noise ratio (SNR) higher. However, the rate at which the SNR increases may be altered through noise reduction techniques in order to spend less time getting the same quality of results, which was the ultimate goal for this experiment.
+
+
+\vspace{5mm}
+
+
+One of the first challenges when running a noise test is determining how to measure the sources of noise.  Usually, as is true in this case, the only raw data that you are given to work with is the detector signal.  This signal is not labeled as a summation of parts, but rather whole and the goal is to determine which parts are attributed to noise and to signal.  This can be done through an in depth knowledge of components, knowing theory behind different potential sources of noise, and  a series of experimental tests to determine if those sources are affecting the final signal, and if so, by how much.  If the amount that the signal is being affected is nominal, then it might not be prudent to mitigate the source of noise.
+
+
+\vspace{5mm}
+
+
+From the aspect of theory, one needs to examine the different components that the HPW is comprised of and determine if there is any noise from that individual component.  Within the HPW, the main components that can possibly change the results of a scan are the monochromatized $AlK\alpha$ emission source, the sample position/mounting, the hemispherical analysis lens/various energy lenses, a microchannel plate detector, and the digital electrical systems that analyze and report the signals.
+
+
+\vspace{5mm} 
+
+
+After determining the components that could alter the interaction sample and the detector, we need to understand the purpose and search for any potential sources of error in each individual components.  The $AlK\alpha$ source is created through an electronic circuit that electron beam that is aimed at an Al anode which then emits an x ray beam.  This beam however is not monochromatized and therefore would lead to a low resolution scan by itself.  Therefore, it is reflected off of a quartz crystal which leads to the monochromatization of the beam due to the angle of diffraction and the constructive interference caused by the x-rays. (2)
+
+
+\vspace{5mm}
+
+
+Since the energy released by K alpha radiation is material dependant and very specific (4), this particular component would not be a source of error.  The monochromator would also, similarly, not be a potential source of noise.  This is because it merely siphons off a specific wavelength of the incoming x-rays and reflects it into the sample.  Although one might argue that there could be inherent defect in the crystal in terms of impurities (which would then interact differently with the incoming non-monochromatized beam) or with surface defects in the crystal (which would change the plane of the crystal with respect to the beam and therefore change the angle of incident of the non-monochromatized beam and the monochromator), these effects would be relatively small and therefore the resulting beam would have an extremely high SNR.
+
+
+\vspace{5mm}
+
+
+The next component that we need to analyze is the sample positioning/mounting system.  This system determines the incident angle at which the monochromatized x ray beam hits the sample before entering the hemispherical analyzer.  This angle however for our purposes has calibrated to, as closely as possible, match peaks of a scan of Au with generated peaks from a SESSA simulation, and remains fixed throughout the scanning process.  Since the angle is fixed, an improper calibration of the machine would solely lead to a systematic error, but would not lead to noise. Therefore, we can factor the angle of the sample out as a source of noise.  
+
+
+\vspace{5mm}
+
+
+However, while the predetermined angle of incident would not lead to a source of noise, the placement of the beam with respect to the sample may be a source of noise.  ~~~~~~~~~~~~~~~~~~~~~~
+
+
+\vspace{5mm}
+
+
+The next component that we will analyze will be the hemispherical analyzer.  The hemispherical analyzer is composed of a concentric charged hemisphere whose purpose is to allow passage of specific energy level electrons while allowing electrons outside of the chosen range to hit the walls.  This component allows for a sweeping of energy levels.
+
+
+\vspace{5mm}
+
+
+The last physical component that we need to analyze is the microchannel plate detector (MPD).  This detector works similarly to a secondary electron multiplier (SEM) in that it takes incoming electrons and multiplies the amount of electrons for every collision with the channel wall. This signal increase is directly proportional to the incoming electrons and therefore is used to merely amplify the received electrons from the hemispherical analyzer to detectable voltages which can then be processed.  However, in the case of an MPD, unlike with an SEM, there are several million independent channels rather than a single channel.
+
+
+\vspace{5mm}
+
+
+One potential source of noise from this detector is external particle events that can penetrate the eternal shell covering the detector and result in a false signal.  Galactic cosmic rays is an example of this.  However, the event rate of this is very low and as it will be shown later, can be averaged and subtracted.  
+
+
+\vspace{5mm}
+
+
+The only other potential sources of noise or error would be due to electrical noise or code incurred systematic errors.
+
+
+%THIS IS WHERE I STOPPED ON 5.26.15 Je suis trés fatigue. J’ai sommeil
+
+%\vspace{5mm}
+
+%However, inherent in all machines is some source of noise.  This source can range anywhere from hot pixels (this may be found in CCD cameras) to digital overflowing (which may be found in any digital system).  Usually, this noise can be mitigated or ignored through the use of longer exposures which will drive the signal to noise ratio (SNR) higher.  However, the rate at which the SNR increases may be altered through noise reduction techniques in order to spend less time getting the same quality of results.
+
+\vspace{5mm}
+
+\begin{equation}
+This describes the Poisson distribution.
+\end{equation}
+
+
+
+
+\section{Experimental Setup and Procedure}
+
+Since we are only given the superposition of the noise and signal at the end of a scan and because taking apart a device containing a vacuum would be highly undesirable and time consuming, the easiest way of trying to discern the amount of noise in the scan is to compare the scan to what we would expect based off of theory.  According to to the theory of HPW (as well as general knowledge of photon production), we expect the results generated to follow a Poisson distribution.  Therefore, if we find something different or slightly off, we can determine the existence of an actual experimental source of noise. This is the method that I attempted to use.
+
+%An inherent property about photon production is that it's energy distribution follows a Poisson distribution.  Therefore, when looking at results derived from experiments done with a photon source, assuming no other distributions or sources of noise are affecting the experiment, we should expect a Poisson distribution for the result as well.  
+
+\vspace{5mm}
+
+Therefore, following this train of thought we should theoretically be able to measure the deviation of a single energy count level's distribution from the Poisson distribution in order to determine any external systems affecting the output and the magnitude at which it is affecting the system. 
+
+\vspace{5mm}
+
+When first looking at this problem, my first train of thought was to run several "fixed scans" on scan a locally flat area (so that there would not be offsets due to more higher emission), with the minimum width possible of ******************!!!!!!!!!!!!!!!!!!!!!!!!1111!! eV in order to get multiple data points per energy level, however, I found out soon that there were several issues with this method.
+
+\vspace{5mm}
+
+One of the issues that I ran into was in regards to a false limit which resulted in the program failing.  I determined that if one were to program approximately 11-15 individual fixed scans within a survey, the program would fail.  This likely due to an error in the program that results in a segmentation fault causing the program to crash [potentially a data overload]!!!!!!!!!!!!!POSSIBLE?!?!. %Fix this
+
+\vspace{5mm}
+
+Another error that I encountered upon viewing the results of the several scan was that a strange structure emerged.  Regardless of the energy level at which the fixed scan was centered,the same structure to the result plot would result.  When brought to Charles in consultation, he upon first through seemed to think that it was a hyperfine structure that was emerging in the scan, however, when I told him that only the amplitude of the structure, but not the structure itself was deviating in scans of the different energy levels, he became suspicious and told me to investigate further. 
+
+\vspace{5mm}
+
+During this process I 
+%  Strange structure. Averaged -> Poisson [2$\%$ deviation].
+
+\vspace{5mm}
+
+Computer error?/Clipping
+
+\vspace{5mm}
+
+Realization
+
+\vspace{5mm}
+
+Sweeping scan
+
+\vspace{5mm}
+
+Localized shift (a bit left a bit right) to determine structure maintained.
+
+\section{Results and Analysis}
+
+
+No noise, so sad. Detector signature. 
+
+\vspace{5mm}
+
+There are multiple potential issues with the computer. Clipping, max sweeping scans before an issue with the protocol, and an issue with fixed scans.
+
+\vspace{5mm}
+
+Determination of detector signature. 
+
+%\end{multicols}
+%\begin{figure}
+%\centering
+%        \includegraphics[scale=.5]{pts.png}
+%    \caption{Removing the histogram and using the data points is more useful for data analysis.}
+%    \label{fig:verticalcell}
+%\end{figure}
+%\begin{multicols}{2}
+
+
+
+\section{Discussion}
+
+How to potentially reduce the noise.
+
+\section{Conclusion}
+
+Still might be able to reduce noise to increase SNR rate.
+
+\section{Acknowledgements}
+
+
+I would like to thank Charles S. Fadley for allowing me to work in the Fadley laboratory and for the freedom he gave me in perusing my whims when it came to experimental techniques.  I also would like to thank Connor Johnson and Alexander Hall for helping me attempt to parse through the source code of the HP-West in order to attempt to locate the zeroed data present in every fixed scan. 
+
+\section{References}
+
+(1) Tyson, Anthony. "Physics 157 Observing Guide", \textit{Advanced Astro Lab, Spring 2014 (2014)}. Web. May 2014.
+
+
+(2)  Analysis Features: X-ray Generation. (n.d.). Retrieved May 26, 2015, from 
+$http://xpssimplified.com/xray\_generation.php$  
+
+
+(3)  Microchannel Plates. (n.d.). Retrieved May 26, 2015, from $http://www.dmphotonics.com/MCP_MCPImage-$
+
+$-Intensifiers/microchannel\_plates.html$
+
+
+(4)  Experimental K-alpha x ray energies. (n.d.). Retrieved May 28, 2015, from 
+$http://hyperphysics.phy-astr.gsu.edu/hbase/tables/kxray.html$
+
+\end{multicols}
+\end{document}

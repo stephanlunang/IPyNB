@@ -1,0 +1,24 @@
+The Chi squared value is : 	1.41624060956e-05
+Boltzmann's Constant measured: 4.61295529955e-24 +/- 2.95561203882e-25
+Formula for error used: kerr = (.25)*k*sqrt((pcov[0][0]/popt[0])**2 + (Gnuerr)**(2))
+where: Gnuerr = (2/avgmid)*stddevmid
+The values of e_a is: 6.01686650021e-09 +/- 2.05100520194e-09
+
+
+
+a:   1.51118285381e-09 +/- 1.7827566788e-11
+b:   1.00353965132e-05 +/- 6.33981516637e-06
+The Chi squared value is : 	1.41624060956e-05
+
+
+G
+std dev		mean
+806.391699986 	6292.8571428
+
+
+G^2:	39600051.0197
+G^2deltanu 277200357138.0
+The value of G^2deltanu = 277200357138.0 +/- 0.256287940974
+
+
+eaerr = ea*sqrt(((sqrt(pcov[1][1]))/(2*popt[1]))**2 + (stddevmid/avgmid)**2)

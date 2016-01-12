@@ -1,0 +1,10 @@
+-Although the software showed different be levels for fixed data (previous runs), the static voltage level accounts for the similarity in count frequency regardless of BE targeted.
+	-Same fine structure evident in old run and new, but now difference in counts (shifted up)
+		-Can conclude that that graph is useless (BE all the same)
+		-Histogram treating all given "raw data energies" as the set fixed BE shows same 			structure with different count frequency (what is expected)
+-Difference between Standard deviation are still low (~1% on the last scan) which is promissing)
+- Issues left
+	- There is still the trailing off of the counts (there shouldnt be as high of a frequency of 0 counts)
+	-Why is it one sided for the most part?
+		-Bad statistics?
+		-Software artifact?

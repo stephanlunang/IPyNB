@@ -1,0 +1,126 @@
+[Project Header]
+Version = 400
+Platform Code = 4
+Pathname = "/C/alexesca/source/whsptest.prj"
+CVI Dir = "/c/cvi40"
+Number of Files = 4
+Sort Type = "No Sort"
+Target Type = "Executable"
+Flags = 16
+Drag Bar Left = 106
+Window Top = 31
+Window Left = 20
+Window Bottom = 703
+Window Right = 444
+
+[File 0001]
+File Type = "CSource"
+Path = "/C/ALEXESCA/SOURCE/alexmisc.c"
+Res Id = 1
+Exclude = False
+Disk Date = 2953559886
+Project Flags = 0
+Window Top = 101
+Window Left = 235
+Window Height = 0
+Window Width = 0
+Source Window State = "1,62,62,62,3,7,3,0,0,82,0,0,0,0,0,34,42,0,43,0,"
+Header Dependencies = "1,2,3,"
+
+[File 0002]
+File Type = "CSource"
+Path = "/C/ALEXESCA/SOURCE/whspmain.c"
+Res Id = 2
+Exclude = False
+Disk Date = 2953559220
+Project Flags = 0
+Window Top = 117
+Window Left = 54
+Window Height = 0
+Window Width = 0
+Source Window State = "1,35,35,35,39,44,45,0,0,98,0,0,0,0,0,25,4,0,10,27,"
+
+[File 0003]
+File Type = "Include"
+Path = "/C/ALEXESCA/SOURCE/whsptest.h"
+Res Id = 3
+Exclude = False
+Disk Date = 2953558872
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0004]
+File Type = "Include"
+Path = "/C/ALEXESCA/SOURCE/alexmisc.h"
+Res Id = 4
+Exclude = False
+Disk Date = 2953559220
+Project Flags = 0
+Window Top = 273
+Window Left = 148
+Window Height = 0
+Window Width = 0
+Source Window State = "1,8,8,8,0,2,3,0,0,80,0,0,0,0,0,25,0,0,8,4,"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Max Number Of Errors = 10
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+
+[Run Options]
+Stack Size = 100000
+Debugging Level = "Standard"
+Save Changes Before Running = "Always"
+Break On Library Errors = True
+Hide Windows = False
+Unload DLLs After Each Run = True
+Check Disk Dates Before Each Run = True
+Break At First Statement = False
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Command Line Args]
+Command Line Args = ""
+
+[Included Headers]
+Header 0006 = "/C/ALEXESCA/SOURCE/whsptest.h"
+Header 0003 = "/C/ALEXESCA/SOURCE/alexmisc.h"
+Header 0001 = "/c/cvi40/include/ansi/stdlib.h"
+Header 0002 = "/c/cvi40/include/cvidef.h"
+Header 0004 = "/c/cvi40/include/cvirte.h"
+Header 0005 = "/c/cvi40/include/userint.h"
+Max Header Number = 6
+
+[Create Executable]
+Executable File = ""
+Icon File = ""
+Application Title = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use Dflt Import Lib Base Name = True
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+Type Lib FP File = ""
+Instrument Driver Support Only = False
+
+[External Compiler Support]
+Create UIR Callbacks File = False
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File = ""
+Project Symbols H File = ""
+Project Symbols Obj File = ""
+

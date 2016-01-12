@@ -1,0 +1,1 @@
+These scans were done after the verified 30 degree neutral angle was set, but before the monochromater angle was optimized. Monochromator was at 195

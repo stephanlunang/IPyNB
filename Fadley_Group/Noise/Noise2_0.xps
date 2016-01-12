@@ -1,0 +1,25 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= General Scan 
+Number_of_Regions_in_Experiment= 1 
+
+Original_File_name= C:\alexesca\data\Noise]\Noise2_0.xps 
+Instrument= HP ESCA West
+Date= 01-05-2015
+Time=  21:21:44
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = Full_Survey_@0.03steps X30, 0-1383eV
+BEcenter(eV) = 691.790000
+BEwidth(eV) = 1384.290000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 30  
+N_o_Channels = 38519  
+Scan_mode = 0  (DITHERED)
+

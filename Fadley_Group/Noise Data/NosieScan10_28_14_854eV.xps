@@ -1,0 +1,1890 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= NosieScan854eV 
+Number_of_Regions_in_Experiment= 100 
+
+Original_File_name= C:\alexesca\data\New Folder\NosieScan10_28_14_854eV.xps 
+Instrument= HP ESCA West
+Date= 10-28-2014
+Time=  16:36:55
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 2 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 3 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 4 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 5 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 6 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 7 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 8 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 9 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 10 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 11 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 12 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 13 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 14 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 15 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 16 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 17 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 18 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 19 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 20 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 21 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 22 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 23 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 24 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 25 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 26 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 27 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 28 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 29 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 30 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 31 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 32 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 33 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 34 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 35 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 36 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 37 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 38 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 39 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 40 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 41 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 42 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 43 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 44 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 45 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 46 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 47 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 48 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 49 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 50 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 51 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 52 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 53 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 54 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 55 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 56 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 57 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 58 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 59 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 60 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 61 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 62 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 63 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 64 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 65 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 66 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 67 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 68 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 69 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 70 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 71 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 72 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 73 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 74 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 75 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 76 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 77 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 78 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 79 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 80 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 81 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 82 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 83 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 84 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 85 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 86 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 87 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 88 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 89 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 90 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 91 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 92 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 93 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 94 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 95 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 96 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 97 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 98 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 99 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 100 Parameters ]
+Region_Description = Noise854eV                         
+BEcenter(eV) = 854.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ L= 1 R= 1 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.76300000e+03 
+854.449  2.76100000e+03 
+854.413  2.83000000e+03 
+854.377  2.82600000e+03 
+854.341  2.75100000e+03 
+854.305  2.81300000e+03 
+854.270  2.75700000e+03 
+854.234  2.77100000e+03 
+854.198  2.83900000e+03 
+854.162  2.75300000e+03 
+854.126  2.76600000e+03 
+854.090  2.71600000e+03 
+854.054  2.79300000e+03 
+854.018  2.72900000e+03 
+853.982  2.83000000e+03 
+853.946  2.79900000e+03 
+853.910  2.82600000e+03 
+853.874  2.77900000e+03 
+853.838  2.82600000e+03 
+853.802  2.80600000e+03 
+853.766  2.75500000e+03 
+853.730  2.79300000e+03 
+853.695  2.82200000e+03 
+853.659  2.79600000e+03 
+853.623  2.85200000e+03 
+853.587  2.76200000e+03 
+853.551  2.76800000e+03 
+853.515  2.81200000e+03 
+
+[ L= 1 R= 2 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.87300000e+03 
+854.449  2.77000000e+03 
+854.413  2.79700000e+03 
+854.377  2.80800000e+03 
+854.341  2.81600000e+03 
+854.305  2.81200000e+03 
+854.270  2.73000000e+03 
+854.234  2.84300000e+03 
+854.198  2.81300000e+03 
+854.162  2.87200000e+03 
+854.126  2.81000000e+03 
+854.090  2.85500000e+03 
+854.054  2.75100000e+03 
+854.018  2.77500000e+03 
+853.982  2.69800000e+03 
+853.946  2.77500000e+03 
+853.910  2.87500000e+03 
+853.874  2.71600000e+03 
+853.838  2.77000000e+03 
+853.802  2.78700000e+03 
+853.766  2.78600000e+03 
+853.730  2.86500000e+03 
+853.695  2.79400000e+03 
+853.659  2.78700000e+03 
+853.623  2.69800000e+03 
+853.587  2.89000000e+03 
+853.551  2.74500000e+03 
+853.515  2.80800000e+03 
+
+[ L= 1 R= 3 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.75900000e+03 
+854.449  2.79700000e+03 
+854.413  2.82000000e+03 
+854.377  2.79100000e+03 
+854.341  2.74600000e+03 
+854.305  2.77000000e+03 
+854.270  2.82000000e+03 
+854.234  2.75800000e+03 
+854.198  2.76300000e+03 
+854.162  2.73700000e+03 
+854.126  2.78700000e+03 
+854.090  2.72500000e+03 
+854.054  2.74900000e+03 
+854.018  2.80500000e+03 
+853.982  2.78700000e+03 
+853.946  2.86000000e+03 
+853.910  2.81300000e+03 
+853.874  2.79500000e+03 
+853.838  2.84800000e+03 
+853.802  2.76900000e+03 
+853.766  2.83500000e+03 
+853.730  2.73400000e+03 
+853.695  2.95300000e+03 
+853.659  2.67600000e+03 
+853.623  2.83500000e+03 
+853.587  2.80000000e+03 
+853.551  2.82900000e+03 
+853.515  2.79500000e+03 
+
+[ L= 1 R= 4 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.79100000e+03 
+854.449  2.76000000e+03 
+854.413  2.79100000e+03 
+854.377  2.82200000e+03 
+854.341  2.78100000e+03 
+854.305  2.76900000e+03 
+854.270  2.74400000e+03 
+854.234  2.80400000e+03 
+854.198  2.81700000e+03 
+854.162  2.89500000e+03 
+854.126  2.78800000e+03 
+854.090  2.79500000e+03 
+854.054  2.71200000e+03 
+854.018  2.84600000e+03 
+853.982  2.69400000e+03 
+853.946  2.64700000e+03 
+853.910  2.90200000e+03 
+853.874  2.67200000e+03 
+853.838  2.85300000e+03 
+853.802  2.81400000e+03 
+853.766  2.81000000e+03 
+853.730  2.82500000e+03 
+853.695  2.75500000e+03 
+853.659  2.81500000e+03 
+853.623  2.79300000e+03 
+853.587  2.76000000e+03 
+853.551  2.79200000e+03 
+853.515  2.86200000e+03 
+
+[ L= 1 R= 5 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.81600000e+03 
+854.449  2.81600000e+03 
+854.413  2.83700000e+03 
+854.377  2.80800000e+03 
+854.341  2.79200000e+03 
+854.305  2.72600000e+03 
+854.270  2.82900000e+03 
+854.234  2.80800000e+03 
+854.198  2.74900000e+03 
+854.162  2.82500000e+03 
+854.126  2.86100000e+03 
+854.090  2.86700000e+03 
+854.054  2.94100000e+03 
+854.018  2.77400000e+03 
+853.982  2.83500000e+03 
+853.946  2.73700000e+03 
+853.910  2.76200000e+03 
+853.874  2.69100000e+03 
+853.838  2.73500000e+03 
+853.802  2.88000000e+03 
+853.766  2.85600000e+03 
+853.730  2.84000000e+03 
+853.695  2.73100000e+03 
+853.659  2.88000000e+03 
+853.623  2.76500000e+03 
+853.587  2.84800000e+03 
+853.551  2.73800000e+03 
+853.515  2.75800000e+03 
+
+[ L= 1 R= 6 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.70300000e+03 
+854.449  2.64200000e+03 
+854.413  2.84300000e+03 
+854.377  2.81800000e+03 
+854.341  2.79700000e+03 
+854.305  2.77900000e+03 
+854.270  2.76500000e+03 
+854.234  2.79400000e+03 
+854.198  2.76600000e+03 
+854.162  2.78800000e+03 
+854.126  2.79600000e+03 
+854.090  2.73400000e+03 
+854.054  2.83900000e+03 
+854.018  2.80500000e+03 
+853.982  2.80000000e+03 
+853.946  2.79100000e+03 
+853.910  2.79900000e+03 
+853.874  2.79600000e+03 
+853.838  2.80800000e+03 
+853.802  2.82200000e+03 
+853.766  2.81300000e+03 
+853.730  2.72500000e+03 
+853.695  2.84700000e+03 
+853.659  2.87400000e+03 
+853.623  2.71400000e+03 
+853.587  2.86900000e+03 
+853.551  2.73300000e+03 
+853.515  2.83500000e+03 
+
+[ L= 1 R= 7 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.71500000e+03 
+854.449  2.77100000e+03 
+854.413  2.76800000e+03 
+854.377  2.86400000e+03 
+854.341  2.79600000e+03 
+854.305  2.79300000e+03 
+854.270  2.67800000e+03 
+854.234  2.79100000e+03 
+854.198  2.74800000e+03 
+854.162  2.67700000e+03 
+854.126  2.76700000e+03 
+854.090  2.72100000e+03 
+854.054  2.73700000e+03 
+854.018  2.71100000e+03 
+853.982  2.72000000e+03 
+853.946  2.85300000e+03 
+853.910  2.79100000e+03 
+853.874  2.79800000e+03 
+853.838  2.81900000e+03 
+853.802  2.81500000e+03 
+853.766  2.75200000e+03 
+853.730  2.84600000e+03 
+853.695  2.79200000e+03 
+853.659  2.71600000e+03 
+853.623  2.73100000e+03 
+853.587  2.86500000e+03 
+853.551  2.74000000e+03 
+853.515  2.81700000e+03 
+
+[ L= 1 R= 8 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.81100000e+03 
+854.449  2.76800000e+03 
+854.413  2.74700000e+03 
+854.377  2.72000000e+03 
+854.341  2.80500000e+03 
+854.305  2.88500000e+03 
+854.270  2.84600000e+03 
+854.234  2.73800000e+03 
+854.198  2.71500000e+03 
+854.162  2.89100000e+03 
+854.126  2.75800000e+03 
+854.090  2.81900000e+03 
+854.054  2.68800000e+03 
+854.018  2.72100000e+03 
+853.982  2.78600000e+03 
+853.946  2.80000000e+03 
+853.910  2.70900000e+03 
+853.874  2.74000000e+03 
+853.838  2.77100000e+03 
+853.802  2.78000000e+03 
+853.766  2.67800000e+03 
+853.730  2.76800000e+03 
+853.695  2.78400000e+03 
+853.659  2.78300000e+03 
+853.623  2.78400000e+03 
+853.587  2.77900000e+03 
+853.551  2.81100000e+03 
+853.515  2.81700000e+03 
+
+[ L= 1 R= 9 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.77000000e+03 
+854.449  2.67500000e+03 
+854.413  2.75500000e+03 
+854.377  2.80200000e+03 
+854.341  2.78800000e+03 
+854.305  2.86100000e+03 
+854.270  2.85700000e+03 
+854.234  2.80900000e+03 
+854.198  2.76500000e+03 
+854.162  2.68200000e+03 
+854.126  2.77100000e+03 
+854.090  2.81000000e+03 
+854.054  2.82900000e+03 
+854.018  2.77200000e+03 
+853.982  2.73900000e+03 
+853.946  2.79000000e+03 
+853.910  2.76700000e+03 
+853.874  2.70500000e+03 
+853.838  2.80600000e+03 
+853.802  2.76000000e+03 
+853.766  2.83700000e+03 
+853.730  2.71000000e+03 
+853.695  2.85100000e+03 
+853.659  2.73300000e+03 
+853.623  2.81100000e+03 
+853.587  2.77000000e+03 
+853.551  2.82300000e+03 
+853.515  2.71300000e+03 
+
+[ L= 1 R= 10 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.78400000e+03 
+854.449  2.83800000e+03 
+854.413  2.79100000e+03 
+854.377  2.78800000e+03 
+854.341  2.77700000e+03 
+854.305  2.79100000e+03 
+854.270  2.80300000e+03 
+854.234  2.79300000e+03 
+854.198  2.66500000e+03 
+854.162  2.76700000e+03 
+854.126  2.79300000e+03 
+854.090  2.82300000e+03 
+854.054  2.80100000e+03 
+854.018  2.69600000e+03 
+853.982  2.79800000e+03 
+853.946  2.79800000e+03 
+853.910  2.86300000e+03 
+853.874  2.79400000e+03 
+853.838  2.77900000e+03 
+853.802  2.83800000e+03 
+853.766  2.71000000e+03 
+853.730  2.69800000e+03 
+853.695  2.79000000e+03 
+853.659  2.79800000e+03 
+853.623  2.77800000e+03 
+853.587  2.71000000e+03 
+853.551  2.80900000e+03 
+853.515  2.87500000e+03 
+
+[ L= 1 R= 11 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.82600000e+03 
+854.449  2.82100000e+03 
+854.413  2.87600000e+03 
+854.377  2.87100000e+03 
+854.341  2.82500000e+03 
+854.305  2.77300000e+03 
+854.270  2.87900000e+03 
+854.234  2.81500000e+03 
+854.198  2.79600000e+03 
+854.162  2.87800000e+03 
+854.126  2.84900000e+03 
+854.090  2.75600000e+03 
+854.054  2.84200000e+03 
+854.018  2.71400000e+03 
+853.982  2.75900000e+03 
+853.946  2.85200000e+03 
+853.910  2.90200000e+03 
+853.874  2.71100000e+03 
+853.838  2.82000000e+03 
+853.802  2.81000000e+03 
+853.766  2.78600000e+03 
+853.730  2.87100000e+03 
+853.695  2.77500000e+03 
+853.659  2.65000000e+03 
+853.623  2.76400000e+03 
+853.587  2.74700000e+03 
+853.551  2.70800000e+03 
+853.515  2.78600000e+03 
+
+[ L= 1 R= 12 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.83300000e+03 
+854.449  2.75200000e+03 
+854.413  2.72100000e+03 
+854.377  2.69600000e+03 
+854.341  2.94900000e+03 
+854.305  2.74900000e+03 
+854.270  2.76000000e+03 
+854.234  2.79000000e+03 
+854.198  2.71500000e+03 
+854.162  2.78000000e+03 
+854.126  2.84900000e+03 
+854.090  2.67200000e+03 
+854.054  2.85600000e+03 
+854.018  2.81200000e+03 
+853.982  2.79100000e+03 
+853.946  2.77300000e+03 
+853.910  2.78400000e+03 
+853.874  2.72900000e+03 
+853.838  2.82600000e+03 
+853.802  2.75100000e+03 
+853.766  2.65500000e+03 
+853.730  2.83000000e+03 
+853.695  2.88800000e+03 
+853.659  2.77200000e+03 
+853.623  2.75700000e+03 
+853.587  2.83400000e+03 
+853.551  2.78500000e+03 
+853.515  2.79800000e+03 
+
+[ L= 1 R= 13 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.72900000e+03 
+854.449  2.76600000e+03 
+854.413  2.77800000e+03 
+854.377  2.77900000e+03 
+854.341  2.72500000e+03 
+854.305  2.79500000e+03 
+854.270  2.78400000e+03 
+854.234  2.78800000e+03 
+854.198  2.95000000e+03 
+854.162  2.80800000e+03 
+854.126  2.78700000e+03 
+854.090  2.78400000e+03 
+854.054  2.79400000e+03 
+854.018  2.78700000e+03 
+853.982  2.80300000e+03 
+853.946  2.82600000e+03 
+853.910  2.75500000e+03 
+853.874  2.84800000e+03 
+853.838  2.71500000e+03 
+853.802  2.76200000e+03 
+853.766  2.82900000e+03 
+853.730  2.73000000e+03 
+853.695  2.83000000e+03 
+853.659  2.80600000e+03 
+853.623  2.80300000e+03 
+853.587  2.79000000e+03 
+853.551  2.75600000e+03 
+853.515  2.80900000e+03 
+
+[ L= 1 R= 14 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.79500000e+03 
+854.449  2.83400000e+03 
+854.413  2.82200000e+03 
+854.377  2.72800000e+03 
+854.341  2.76600000e+03 
+854.305  2.79100000e+03 
+854.270  2.82500000e+03 
+854.234  2.80800000e+03 
+854.198  2.71200000e+03 
+854.162  2.94500000e+03 
+854.126  2.77300000e+03 
+854.090  2.69600000e+03 
+854.054  2.85800000e+03 
+854.018  2.76100000e+03 
+853.982  2.79700000e+03 
+853.946  2.78700000e+03 
+853.910  2.83800000e+03 
+853.874  2.81600000e+03 
+853.838  2.73400000e+03 
+853.802  2.81100000e+03 
+853.766  2.90100000e+03 
+853.730  2.73400000e+03 
+853.695  2.69300000e+03 
+853.659  2.77200000e+03 
+853.623  2.83800000e+03 
+853.587  2.72900000e+03 
+853.551  2.81600000e+03 
+853.515  2.74400000e+03 
+
+[ L= 1 R= 15 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.76700000e+03 
+854.449  2.86800000e+03 
+854.413  2.80400000e+03 
+854.377  2.80300000e+03 
+854.341  2.77900000e+03 
+854.305  2.74200000e+03 
+854.270  2.83300000e+03 
+854.234  2.77200000e+03 
+854.198  2.78200000e+03 
+854.162  2.77900000e+03 
+854.126  2.75800000e+03 
+854.090  2.78600000e+03 
+854.054  2.67500000e+03 
+854.018  2.79700000e+03 
+853.982  2.87900000e+03 
+853.946  2.81700000e+03 
+853.910  2.77400000e+03 
+853.874  2.79100000e+03 
+853.838  2.71700000e+03 
+853.802  2.84900000e+03 
+853.766  2.74400000e+03 
+853.730  2.71200000e+03 
+853.695  2.80800000e+03 
+853.659  2.79000000e+03 
+853.623  2.74300000e+03 
+853.587  2.72500000e+03 
+853.551  2.79500000e+03 
+853.515  2.76500000e+03 
+
+[ L= 1 R= 16 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.78200000e+03 
+854.449  2.86700000e+03 
+854.413  2.80400000e+03 
+854.377  2.77100000e+03 
+854.341  2.70300000e+03 
+854.305  2.73100000e+03 
+854.270  2.76600000e+03 
+854.234  2.88200000e+03 
+854.198  2.63000000e+03 
+854.162  2.77000000e+03 
+854.126  2.82900000e+03 
+854.090  2.77600000e+03 
+854.054  2.89300000e+03 
+854.018  2.77700000e+03 
+853.982  2.76000000e+03 
+853.946  2.85200000e+03 
+853.910  2.78600000e+03 
+853.874  2.87200000e+03 
+853.838  2.76600000e+03 
+853.802  2.80600000e+03 
+853.766  2.78700000e+03 
+853.730  2.75900000e+03 
+853.695  2.83500000e+03 
+853.659  2.74700000e+03 
+853.623  2.85600000e+03 
+853.587  2.77900000e+03 
+853.551  2.80400000e+03 
+853.515  2.81500000e+03 
+
+[ L= 1 R= 17 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.89400000e+03 
+854.449  2.79000000e+03 
+854.413  2.70300000e+03 
+854.377  2.73100000e+03 
+854.341  2.75100000e+03 
+854.305  2.78400000e+03 
+854.270  2.78900000e+03 
+854.234  2.66700000e+03 
+854.198  2.81600000e+03 
+854.162  2.81900000e+03 
+854.126  2.70700000e+03 
+854.090  2.76200000e+03 
+854.054  2.77400000e+03 
+854.018  2.72900000e+03 
+853.982  2.76900000e+03 
+853.946  2.79000000e+03 
+853.910  2.84100000e+03 
+853.874  2.82400000e+03 
+853.838  2.82100000e+03 
+853.802  2.84600000e+03 
+853.766  2.73200000e+03 
+853.730  2.79200000e+03 
+853.695  2.84000000e+03 
+853.659  2.81300000e+03 
+853.623  2.73400000e+03 
+853.587  2.79200000e+03 
+853.551  2.83500000e+03 
+853.515  2.75600000e+03 
+
+[ L= 1 R= 18 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.80500000e+03 
+854.449  2.79800000e+03 
+854.413  2.66700000e+03 
+854.377  2.82900000e+03 
+854.341  2.86100000e+03 
+854.305  2.83000000e+03 
+854.270  2.81100000e+03 
+854.234  2.76300000e+03 
+854.198  2.76700000e+03 
+854.162  2.82000000e+03 
+854.126  2.85400000e+03 
+854.090  2.82500000e+03 
+854.054  2.77700000e+03 
+854.018  2.74300000e+03 
+853.982  2.71800000e+03 
+853.946  2.81600000e+03 
+853.910  2.72900000e+03 
+853.874  2.70500000e+03 
+853.838  2.69300000e+03 
+853.802  2.78100000e+03 
+853.766  2.81200000e+03 
+853.730  2.80000000e+03 
+853.695  2.78900000e+03 
+853.659  2.84000000e+03 
+853.623  2.82300000e+03 
+853.587  2.77400000e+03 
+853.551  2.81900000e+03 
+853.515  2.70900000e+03 
+
+[ L= 1 R= 19 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.84100000e+03 
+854.449  2.79000000e+03 
+854.413  2.87200000e+03 
+854.377  2.76000000e+03 
+854.341  2.74200000e+03 
+854.305  2.79600000e+03 
+854.270  2.79100000e+03 
+854.234  2.67800000e+03 
+854.198  2.78300000e+03 
+854.162  2.87100000e+03 
+854.126  2.80500000e+03 
+854.090  2.81400000e+03 
+854.054  2.76900000e+03 
+854.018  2.76200000e+03 
+853.982  2.74800000e+03 
+853.946  2.75000000e+03 
+853.910  2.89400000e+03 
+853.874  2.78600000e+03 
+853.838  2.85700000e+03 
+853.802  2.83200000e+03 
+853.766  2.77400000e+03 
+853.730  2.67100000e+03 
+853.695  2.76400000e+03 
+853.659  2.79400000e+03 
+853.623  2.84500000e+03 
+853.587  2.81800000e+03 
+853.551  2.83500000e+03 
+853.515  2.76500000e+03 
+
+[ L= 1 R= 20 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.76900000e+03 
+854.449  2.79400000e+03 
+854.413  2.75700000e+03 
+854.377  2.75400000e+03 
+854.341  2.74600000e+03 
+854.305  2.80300000e+03 
+854.270  2.79700000e+03 
+854.234  2.79900000e+03 
+854.198  2.75900000e+03 
+854.162  2.81200000e+03 
+854.126  2.74200000e+03 
+854.090  2.78900000e+03 
+854.054  2.81600000e+03 
+854.018  2.74300000e+03 
+853.982  2.79100000e+03 
+853.946  2.86000000e+03 
+853.910  2.83000000e+03 
+853.874  2.81900000e+03 
+853.838  2.72900000e+03 
+853.802  2.78900000e+03 
+853.766  2.69100000e+03 
+853.730  2.73400000e+03 
+853.695  2.78500000e+03 
+853.659  2.74600000e+03 
+853.623  2.80800000e+03 
+853.587  2.84200000e+03 
+853.551  2.81900000e+03 
+853.515  2.92000000e+03 
+
+[ L= 1 R= 21 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.72600000e+03 
+854.449  2.78800000e+03 
+854.413  2.81100000e+03 
+854.377  2.82600000e+03 
+854.341  2.71200000e+03 
+854.305  2.83800000e+03 
+854.270  2.83900000e+03 
+854.234  2.78500000e+03 
+854.198  2.71200000e+03 
+854.162  2.81800000e+03 
+854.126  2.81600000e+03 
+854.090  2.78400000e+03 
+854.054  2.66500000e+03 
+854.018  2.71800000e+03 
+853.982  2.75300000e+03 
+853.946  2.80400000e+03 
+853.910  2.79200000e+03 
+853.874  2.88700000e+03 
+853.838  2.83100000e+03 
+853.802  2.69000000e+03 
+853.766  2.88900000e+03 
+853.730  2.82600000e+03 
+853.695  2.72900000e+03 
+853.659  2.82400000e+03 
+853.623  2.72800000e+03 
+853.587  2.88200000e+03 
+853.551  2.81300000e+03 
+853.515  2.71300000e+03 
+
+[ L= 1 R= 22 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.87800000e+03 
+854.449  2.87600000e+03 
+854.413  2.79000000e+03 
+854.377  2.85600000e+03 
+854.341  2.81200000e+03 
+854.305  2.70100000e+03 
+854.270  2.73000000e+03 
+854.234  2.78500000e+03 
+854.198  2.74200000e+03 
+854.162  2.78100000e+03 
+854.126  2.80600000e+03 
+854.090  2.91300000e+03 
+854.054  2.82500000e+03 
+854.018  2.81000000e+03 
+853.982  2.78000000e+03 
+853.946  2.78100000e+03 
+853.910  2.77900000e+03 
+853.874  2.78400000e+03 
+853.838  2.73200000e+03 
+853.802  2.84400000e+03 
+853.766  2.76400000e+03 
+853.730  2.73300000e+03 
+853.695  2.80600000e+03 
+853.659  2.78700000e+03 
+853.623  2.84700000e+03 
+853.587  2.96900000e+03 
+853.551  2.89000000e+03 
+853.515  2.70200000e+03 
+
+[ L= 1 R= 23 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.72800000e+03 
+854.449  2.74500000e+03 
+854.413  2.78300000e+03 
+854.377  2.76800000e+03 
+854.341  2.80900000e+03 
+854.305  2.82900000e+03 
+854.270  2.83800000e+03 
+854.234  2.82900000e+03 
+854.198  2.83300000e+03 
+854.162  2.80600000e+03 
+854.126  2.81800000e+03 
+854.090  2.72300000e+03 
+854.054  2.76800000e+03 
+854.018  2.80800000e+03 
+853.982  2.76200000e+03 
+853.946  2.71900000e+03 
+853.910  2.73600000e+03 
+853.874  2.83000000e+03 
+853.838  2.71800000e+03 
+853.802  2.78000000e+03 
+853.766  2.83400000e+03 
+853.730  2.77000000e+03 
+853.695  2.74700000e+03 
+853.659  2.73400000e+03 
+853.623  2.74000000e+03 
+853.587  2.84800000e+03 
+853.551  2.83700000e+03 
+853.515  2.66100000e+03 
+
+[ L= 1 R= 24 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.79700000e+03 
+854.449  2.83100000e+03 
+854.413  2.77700000e+03 
+854.377  2.86000000e+03 
+854.341  2.77100000e+03 
+854.305  2.78700000e+03 
+854.270  2.80700000e+03 
+854.234  2.81300000e+03 
+854.198  2.78600000e+03 
+854.162  2.82500000e+03 
+854.126  2.72400000e+03 
+854.090  2.83300000e+03 
+854.054  2.70800000e+03 
+854.018  2.81600000e+03 
+853.982  2.82000000e+03 
+853.946  2.79100000e+03 
+853.910  2.76600000e+03 
+853.874  2.78800000e+03 
+853.838  2.84300000e+03 
+853.802  2.82100000e+03 
+853.766  2.83700000e+03 
+853.730  2.86300000e+03 
+853.695  2.77800000e+03 
+853.659  2.76900000e+03 
+853.623  2.75900000e+03 
+853.587  2.90800000e+03 
+853.551  2.74500000e+03 
+853.515  2.87200000e+03 
+
+[ L= 1 R= 25 ]
+BEcenter= 854.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+854.485  2.82900000e+03 
+854.449  2.86200000e+03 
+854.413  2.82100000e+03 
+854.377  2.71100000e+03 
+854.341  2.72800000e+03 
+854.305  2.72300000e+03 
+854.270  2.80800000e+03 
+854.234  2.81500000e+03 
+854.198  2.83400000e+03 
+854.162  2.79400000e+03 
+854.126  2.87900000e+03 
+854.090  2.74900000e+03 
+854.054  2.80300000e+03 
+854.018  2.82800000e+03 
+853.982  2.74100000e+03 
+853.946  2.82400000e+03 
+853.910  2.75200000e+03 
+853.874  2.78300000e+03 
+853.838  2.81500000e+03 
+853.802  2.78600000e+03 
+853.766  2.72600000e+03 
+853.730  2.78600000e+03 
+853.695  2.87500000e+03 
+853.659  2.70200000e+03 
+853.623  2.81900000e+03 
+853.587  2.71900000e+03 
+853.551  2.75900000e+03 
+853.515  2.86300000e+03 
+

@@ -1,0 +1,35 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= Si62613sample 
+Number_of_Regions_in_Experiment= 2 
+
+Original_File_name= C:\alexesca\data\Surveys\06_26_13_Si_Survey.xps 
+Instrument= HP ESCA West
+Date= 06-26-2013
+Time=  16:28:24
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = Full Survey (3x)                   
+BEcenter(eV) = 497.000000
+BEwidth(eV) = 1006.000000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 3  
+N_o_Channels = 27993  
+Scan_mode = 0  (DITHERED)
+
+[ Region 2 Parameters ]
+Region_Description = 50-200eV (3x) 1 sec dwell time
+BEcenter(eV) = 125.000000
+BEwidth(eV) = 75.000000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 3  
+N_o_Channels = 2087  
+Scan_mode = 0  (DITHERED)
+

@@ -1,0 +1,3 @@
+Standard Deviation (552 eV):  33.6415331171 	Sqrt of Average :  41.5102345249 	Difference:  18.9560514362 %
+
+Standard Deviation (854 eV):  33.8920394883 	Sqrt of Average :  41.4464058429 	Difference:  18.2268310145 %

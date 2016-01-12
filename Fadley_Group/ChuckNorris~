@@ -1,0 +1,20 @@
+Hey Chuck,
+
+So I ran analysis on the newly collected data and I think that my original idea might be holding true.  Looking at more data that corresponds to after the dither fix leads me to believe that the "fixed scan" although reporting different Binding Energies (for example)
+Binding	 Counts
+524.600  2.64500000e+03 
+524.564  2.60200000e+03 
+524.528  2.69700000e+03 
+524.492  2.66400000e+03 
+524.456  2.69000000e+03 
+524.420  2.82200000e+03 
+524.384  2.89500000e+03 
+524.347  2.77200000e+03 
+524.311  2.72300000e+03 
+524.275  2.79700000e+03 
+524.239  2.84900000e+03 
+524.203  2.79600000e+03 
+524.167  2.76400000e+03 
+524.131  2.86800000e+03 
+
+and different corresponding count levels is merely an artifact of the code.  The evidence tells me that this fine structure that we are seeing in the graph in which the raw data is plotted is a false representation of what is actually there, however, the histogram in which I assumed that all data is coming from the same binding energy, is correct. The issues that we were running into before with the fixed energy level,

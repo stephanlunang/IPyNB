@@ -1,0 +1,197 @@
+[Project Header]
+Version = 400
+Platform Code = 4
+Pathname = "/C/alexesca/source/ANALYSIS.PRJ"
+CVI Dir = "/c/cvi40"
+Number of Files = 10
+Sort Type = "No Sort"
+Target Type = "Executable"
+Flags = 16
+Drag Bar Left = 109
+Window Top = 147
+Window Left = 108
+Window Bottom = 777
+Window Right = 546
+
+[File 0001]
+File Type = "Include"
+Path = "/c/alexesca/source/analysih.h"
+Res Id = 1
+Exclude = False
+Disk Date = 2953512898
+Project Flags = 0
+Window Top = 48
+Window Left = 100
+Window Height = 0
+Window Width = 0
+Source Window State = "1,122,122,122,4,26,27,0,0,80,0,83,0,0,0,25,86,0,99,38,"
+
+[File 0002]
+File Type = "Include"
+Path = "/c/alexesca/source/globals.h"
+Res Id = 2
+Exclude = False
+Disk Date = 2953510188
+Project Flags = 0
+Window Top = 23
+Window Left = 299
+Window Height = 0
+Window Width = 0
+Source Window State = "1,147,147,147,8,33,8,0,3,80,0,0,0,0,0,25,141,0,147,34,"
+
+[File 0003]
+File Type = "Include"
+Path = "/c/alexesca/source/define.h"
+Res Id = 3
+Exclude = False
+Disk Date = 2953335626
+Project Flags = 0
+Window Top = 186
+Window Left = 90
+Window Height = 0
+Window Width = 0
+Source Window State = "1,30,30,30,8,24,8,0,3,80,0,0,0,0,0,25,10,0,30,25,"
+
+[File 0004]
+File Type = "CSource"
+Path = "/c/alexesca/source/analysis.c"
+Res Id = 4
+Exclude = False
+Disk Date = 2953585062
+Project Flags = 0
+Window Top = 87
+Window Left = 57
+Window Height = 0
+Window Width = 0
+Source Window State = "0,1034,1034,1034,22,32,33,0,0,108,36,1017,0,1035,33,2,909,0,917,0,"
+
+[File 0005]
+File Type = "CSource"
+Path = "/c/alexesca/source/alex_ini.c"
+Res Id = 5
+Exclude = False
+Disk Date = 2952443750
+Project Flags = 0
+Window Top = 30
+Window Left = 50
+Window Height = 0
+Window Width = 0
+Source Window State = "1,428,497,428,0,-1,0,0,0,88,0,0,0,0,0,38,0,0,33,10,"
+
+[File 0006]
+File Type = "Include"
+Path = "/c/alexesca/source/alex_ini.h"
+Res Id = 6
+Exclude = False
+Disk Date = 2941742634
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0007]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/analyze.uir"
+Res Id = 7
+Exclude = False
+Disk Date = 2953518092
+Project Flags = 0
+Window Top = 121
+Window Left = 39
+Window Height = 687
+Window Width = 974
+
+[File 0008]
+File Type = "Include"
+Path = "/c/alexesca/source/analyze.h"
+Res Id = 8
+Exclude = False
+Disk Date = 2953518092
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0009]
+File Type = "CSource"
+Path = "/c/alexesca/source/math_lib.c"
+Res Id = 9
+Exclude = False
+Disk Date = 2951164352
+Project Flags = 0
+Window Top = 24
+Window Left = 144
+Window Height = 0
+Window Width = 0
+Source Window State = "1,572,572,572,23,67,23,0,0,101,0,1,0,1,0,47,538,0,572,59,"
+Breakpoint 0001 = "257,0,disabled,"
+
+[File 0010]
+File Type = "Include"
+Path = "/c/alexesca/source/math_lib.h"
+Res Id = 10
+Exclude = False
+Disk Date = 2951159350
+Project Flags = 0
+Window Top = 71
+Window Left = 62
+Window Height = 0
+Window Width = 0
+Source Window State = "1,40,40,40,55,57,55,0,0,87,0,0,0,0,0,25,25,0,40,61,"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Max Number Of Errors = 10
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+
+[Run Options]
+Stack Size = 100000
+Debugging Level = "None"
+Save Changes Before Running = "Always"
+Break On Library Errors = True
+Hide Windows = False
+Unload DLLs After Each Run = True
+Check Disk Dates Before Each Run = True
+Break At First Statement = False
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Command Line Args]
+Command Line Args = ""
+
+[Included Headers]
+Max Header Number = 0
+
+[Create Executable]
+Executable File = "/c/alexesca/source/alex_fit.exe"
+Icon File = "/c/alexesca/source/fit32.ico"
+Application Title = "alex_fit 2.0"
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use Dflt Import Lib Base Name = True
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+Type Lib FP File = ""
+Instrument Driver Support Only = False
+
+[External Compiler Support]
+Create UIR Callbacks File = False
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File = ""
+Project Symbols H File = ""
+Project Symbols Obj File = ""
+

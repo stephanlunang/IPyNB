@@ -1,0 +1,44 @@
+Hey Chuck,
+
+So I ran analysis on the newly collected data and I think that my original idea might be holding true.  Looking at more data that corresponds to after the dither fix leads me to believe that the "fixed scan" although reporting different Binding Energies (for example)
+
+
+Binding	 	Counts
+
+
+524.600  	2.64500000e+03 
+
+524.564  	2.60200000e+03 
+
+524.528  	2.69700000e+03 
+
+524.492  	2.66400000e+03 
+
+524.456  	2.69000000e+03 
+
+524.420  	2.82200000e+03 
+
+524.384  	2.89500000e+03 
+
+524.347  	2.77200000e+03 
+
+524.311  	2.72300000e+03 
+
+524.275  	2.79700000e+03 
+
+524.239  	2.84900000e+03 
+
+524.203  	2.79600000e+03 
+
+524.167  	2.76400000e+03 
+
+524.131  	2.86800000e+03 
+
+
+and different corresponding count levels is merely an artifact of the code.  The evidence tells me that this fine structure that we are seeing in the graph in which the raw data is plotted is a false representation of what is actually there, however, the histogram in which I assumed that all data is coming from the same binding energy, is correct. The issues that we were running into before with the fixed energy level, caused the averages in the histograms to be the same, because even though the binding energies were reading as changing by the software, there was a disconnect in the hardware.  However, now that this is fixed, changing the center at which the scan is located also changes the average counts, as expected.  
+
+From the new data, I can see that the difference in the expected standard deviation and the actual standard deviation are only off by minute amounts (~1%), however, there are still a few issues left.
+
+There is still an issue with the trailing off of counts (there should be an extremely infrequency amount of zero counts, but it seems every one of the last two data points goes to zero).  This I believe to be an artifact of the software which I plan to look into more.  The other issue that I am seeing is that there tends to be a one sidedness to the distribution with more of a tendency to be on the lower side of counts.  There are two possible sources as far as I can tell for this.  The first one is bad statistics, seeing as the data takes a long time to get due to software/memory issues that limit the ability to take more than 10 "sweeps" at a time, this one would be the last possibility to check because it would take the longest.  The second is that it could be a software artifact as well, possibly due to something specific in the fixed scan function.
+
+The take away. I think that it might be benificial before progressing to dirct myself and one other student towards taking a look at the software and seeing if we can correct the problems that we are seeing or perhaps at least see where they are originating from.  This can be done while running more scans on this singular region of the gold sample to perhaps improve statistics.  However, as far as proving that the distribution should behave as a sqrt(N) deviation, I think that for the most part, I have.

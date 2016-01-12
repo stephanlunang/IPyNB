@@ -1,0 +1,3 @@
+These scans are taken after the verified 30deg theta at neutral rotation was done and after adjusting the monochromator to 280 believed to be optimum.
+
+There were some issues that appeared when doing these scans.  Sometimes the voltage on the 6131 would freeze at -120V during a scan.  I would shut down the ESCA software and re-open it and verified that i could set the power supply using the utilites and do a quick moniter of a fixed scan to see that it was behaving correctly and then run the dithered scans i wanted and it would scan correctly with proper varying voltage on the 6131.

@@ -1,0 +1,25 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= <none> 
+Number_of_Regions_in_Experiment= 1 
+
+Original_File_name= C:\alexesca\data\0918Au4f.xps 
+Instrument= HP ESCA West
+Date= 09-18-2012
+Time=  11:46:07
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = Au4f Dithered Scan X4              
+BEcenter(eV) = 91.000000
+BEwidth(eV) = 10.000000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 4  
+N_o_Channels = 278  
+Scan_mode = 0  (DITHERED)
+

@@ -1,0 +1,600 @@
+[Project Header]
+Version = 401
+Platform Code = 1
+Pathname = "/c/alexesca/source/alexesca.prj"
+CVI Dir = "/c/cvi"
+VXIplug&play Framework Dir = "/c/vxipnp/win"
+Number of Files = 39
+Sort Type = "File Name"
+Flags = 17
+Drag Bar Left = 205
+Window Top = 462
+Window Left = 102
+Window Bottom = 786
+Window Right = 650
+
+[File 0001]
+File Type = "CSource"
+Path = "/c/alexesca/source/alexmisc.c"
+Res Id = 1
+Exclude = False
+Disk Date = 2953545486
+Project Flags = 0
+Window Top = 210
+Window Left = 117
+Window Height = 0
+Window Width = 0
+Source Window State = "1,43,43,43,5,53,5,0,3,80,0,0,0,0,0,25,30,0,43,54,"
+Header Dependencies = "1,2,3,4,"
+
+[File 0002]
+File Type = "Include"
+Path = "/c/alexesca/source/alexmisc.h"
+Res Id = 2
+Exclude = False
+Disk Date = 2953544820
+Project Flags = 0
+Window Top = 127
+Window Left = 266
+Window Height = 0
+Window Width = 0
+Source Window State = "1,8,9,8,0,-1,0,0,0,80,0,6,0,6,0,25,0,0,9,52,"
+
+[File 0003]
+File Type = "CSource"
+Path = "/c/alexesca/source/alex_ini.c"
+Res Id = 3
+Exclude = False
+Disk Date = 2952429350
+Project Flags = 0
+Window Top = 158
+Window Left = 54
+Window Height = 0
+Window Width = 0
+Source Window State = "1,26,26,26,20,20,21,0,0,119,0,4,0,0,0,25,309,0,322,2,"
+Header Dependencies = "1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,"
+
+[File 0004]
+File Type = "Include"
+Path = "/c/alexesca/source/alex_ini.h"
+Res Id = 4
+Exclude = False
+Disk Date = 2941731834
+Project Flags = 0
+Window Top = 163
+Window Left = 78
+Window Height = 0
+Window Width = 0
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,12,26,"
+
+[File 0005]
+File Type = "CSource"
+Path = "/c/alexesca/source/aper.c"
+Res Id = 5
+Exclude = False
+Disk Date = 2953291182
+Project Flags = 0
+Window Top = 150
+Window Left = 20
+Window Height = 0
+Window Width = 0
+Source Window State = "1,12,12,12,24,24,25,0,0,114,0,2,0,2,0,37,0,0,0,9,"
+Header Dependencies = "1,2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,"
+
+[File 0006]
+File Type = "Include"
+Path = "/c/alexesca/source/aper.h"
+Res Id = 6
+Exclude = False
+Disk Date = 2939654718
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0007]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/aper.uir"
+Res Id = 7
+Exclude = False
+Disk Date = 2946369550
+Project Flags = 0
+Window Top = 94
+Window Left = 42
+Window Height = 483
+Window Width = 594
+
+[File 0008]
+File Type = "Include"
+Path = "/c/alexesca/source/aperh.h"
+Res Id = 8
+Exclude = False
+Disk Date = 2939652040
+Project Flags = 0
+Window Top = 112
+Window Left = 36
+Window Height = 0
+Window Width = 0
+Source Window State = "1,6,6,6,4,27,4,0,0,80,0,0,0,0,0,25,0,0,9,51,"
+
+[File 0009]
+File Type = "Include"
+Path = "/c/alexesca/source/define.h"
+Res Id = 9
+Exclude = False
+Disk Date = 2953321226
+Project Flags = 0
+Window Top = 115
+Window Left = 24
+Window Height = 0
+Window Width = 0
+Source Window State = "1,7,7,7,8,25,26,0,3,111,0,0,0,0,0,42,0,0,7,8,"
+
+[File 0010]
+File Type = "Include"
+Path = "/c/alexesca/source/detectoh.h"
+Res Id = 10
+Exclude = False
+Disk Date = 2951162518
+Project Flags = 0
+Window Top = 30
+Window Left = 140
+Window Height = 0
+Window Width = 0
+Source Window State = "1,48,48,48,28,41,28,0,0,108,0,25,0,0,0,25,35,0,44,14,"
+
+[File 0011]
+File Type = "CSource"
+Path = "/c/alexesca/source/detector.c"
+Res Id = 11
+Exclude = False
+Disk Date = 2953482932
+Project Flags = 0
+Window Top = 304
+Window Left = 57
+Window Height = 0
+Window Width = 0
+Source Window State = "1,25,25,25,0,6,7,0,0,112,0,0,0,0,0,24,412,0,463,91,"
+Header Dependencies = "1,2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31,32,"
+
+[File 0012]
+File Type = "Include"
+Path = "/c/alexesca/source/detector.h"
+Res Id = 12
+Exclude = False
+Disk Date = 2951162962
+Project Flags = 0
+Window Top = 52
+Window Left = 37
+Window Height = 0
+Window Width = 0
+Source Window State = "1,60,60,60,9,30,9,0,3,80,0,0,0,0,0,25,49,0,60,31,"
+
+[File 0013]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/detector.uir"
+Res Id = 13
+Exclude = False
+Disk Date = 2953307630
+Project Flags = 0
+Window Top = 116
+Window Left = 246
+Window Height = 739
+Window Width = 731
+
+[File 0014]
+File Type = "CSource"
+Path = "/c/alexesca/source/esca.c"
+Res Id = 14
+Exclude = False
+Disk Date = 3398428684
+Project Flags = 0
+Window Top = 30
+Window Left = 110
+Window Height = 0
+Window Width = 0
+Source Window State = "0,50,50,50,20,22,20,0,0,101,37,38,0,50,24,0,729,3,658,51,"
+
+[File 0015]
+File Type = "Include"
+Path = "/c/alexesca/source/esca.h"
+Res Id = 15
+Exclude = False
+Disk Date = 2953306332
+Project Flags = 0
+Window Top = 103
+Window Left = 435
+Window Height = 0
+Window Width = 0
+Source Window State = "1,61,61,61,9,26,9,0,0,56,0,0,0,0,0,40,53,0,72,34,"
+
+[File 0016]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/esca.uir"
+Res Id = 16
+Exclude = False
+Disk Date = 2953306332
+Project Flags = 0
+Window Top = 90
+Window Left = 58
+Window Height = 604
+Window Width = 919
+
+[File 0017]
+File Type = "Include"
+Path = "/c/alexesca/source/escah.h"
+Res Id = 17
+Exclude = False
+Disk Date = 2953306540
+Project Flags = 0
+Window Top = 323
+Window Left = 85
+Window Height = 0
+Window Width = 0
+Source Window State = "1,12,13,12,0,37,0,0,0,105,0,0,0,0,0,25,0,0,17,92,"
+
+[File 0018]
+File Type = "Include"
+Path = "/c/alexesca/source/globals.h"
+Res Id = 18
+Exclude = False
+Disk Date = 2953495788
+Project Flags = 0
+Window Top = 92
+Window Left = 104
+Window Height = 0
+Window Width = 0
+Source Window State = "1,159,159,159,60,63,64,0,3,100,0,20,0,0,0,39,140,0,159,60,"
+
+[File 0019]
+File Type = "CSource"
+Path = "/c/alexesca/source/light.c"
+Res Id = 19
+Exclude = False
+Disk Date = 2953306904
+Project Flags = 0
+Window Top = 284
+Window Left = 245
+Window Height = 0
+Window Width = 0
+Source Window State = "1,0,0,0,0,20,21,0,0,80,0,124,0,124,0,25,75,0,81,0,"
+Header Dependencies = "2,3,6,26,27,32,37,38,"
+
+[File 0020]
+File Type = "Include"
+Path = "/c/alexesca/source/light.h"
+Res Id = 20
+Exclude = False
+Disk Date = 2953306316
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0021]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/light.uir"
+Res Id = 21
+Exclude = False
+Disk Date = 2953512230
+Project Flags = 0
+Window Top = 163
+Window Left = 78
+Window Height = 400
+Window Width = 708
+
+[File 0022]
+File Type = "Include"
+Path = "/c/alexesca/source/lighth.h"
+Res Id = 22
+Exclude = False
+Disk Date = 2953306660
+Project Flags = 0
+Window Top = 324
+Window Left = 162
+Window Height = 0
+Window Width = 0
+Source Window State = "1,28,28,28,0,3,4,0,0,80,0,0,0,0,0,25,6,0,28,2,"
+
+[File 0023]
+File Type = "CSource"
+Path = "/c/alexesca/source/param.c"
+Res Id = 23
+Exclude = False
+Disk Date = 2953546790
+Project Flags = 0
+Window Top = 30
+Window Left = 57
+Window Height = 0
+Window Width = 0
+Source Window State = "0,1553,1553,1553,3,34,3,0,0,110,36,1538,0,1551,1,2,1036,0,1045,71,"
+Header Dependencies Line0001 = "1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,26,27,29,32,33,34,35,3"
+Header Dependencies Line0002 = "9,40,41,42,"
+
+[File 0024]
+File Type = "Include"
+Path = "/c/alexesca/source/param.h"
+Res Id = 24
+Exclude = False
+Disk Date = 2953546292
+Project Flags = 0
+Window Top = 47
+Window Left = 17
+Window Height = 0
+Window Width = 0
+Source Window State = "1,89,89,89,9,29,9,0,3,80,0,0,0,0,0,25,73,0,89,30,"
+
+[File 0025]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/param.uir"
+Res Id = 25
+Exclude = False
+Disk Date = 2953546292
+Project Flags = 0
+Window Top = 52
+Window Left = 93
+Window Height = 649
+Window Width = 771
+
+[File 0026]
+File Type = "Include"
+Path = "/c/alexesca/source/paramh.h"
+Res Id = 26
+Exclude = False
+Disk Date = 2953480014
+Project Flags = 0
+Window Top = 89
+Window Left = 37
+Window Height = 0
+Window Width = 0
+Source Window State = "1,11,11,11,4,22,23,0,0,113,0,0,0,0,0,39,7,0,44,33,"
+
+[File 0027]
+File Type = "CSource"
+Path = "/c/alexesca/source/power.c"
+Res Id = 27
+Exclude = False
+Disk Date = 3423762324
+Project Flags = 0
+Window Top = 30
+Window Left = 465
+Window Height = 0
+Window Width = 0
+Source Window State = "0,9,9,9,0,89,90,0,3,110,39,0,0,9,0,1,183,0,188,42,"
+
+[File 0028]
+File Type = "Include"
+Path = "/c/alexesca/source/power.h"
+Res Id = 28
+Exclude = False
+Disk Date = 3399571312
+Project Flags = 0
+Window Top = 112
+Window Left = 53
+Window Height = 0
+Window Width = 0
+Source Window State = "1,15,16,15,0,-1,0,0,3,80,0,0,0,0,0,25,0,0,15,7,"
+
+[File 0029]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/power.uir"
+Res Id = 29
+Exclude = False
+Disk Date = 3399571848
+Project Flags = 0
+Window Top = 40
+Window Left = 436
+Window Height = 541
+Window Width = 562
+
+[File 0030]
+File Type = "Include"
+Path = "/c/alexesca/source/powerh.h"
+Res Id = 30
+Exclude = False
+Disk Date = 2953502840
+Project Flags = 0
+Window Top = 431
+Window Left = 34
+Window Height = 0
+Window Width = 0
+Source Window State = "1,18,18,18,0,43,0,0,0,102,0,0,0,0,0,19,1,0,13,92,"
+
+[File 0031]
+File Type = "Function Panel"
+Path = "/c/cvi/toolslib/printing/prthires.fp"
+Res Id = 31
+Exclude = False
+Disk Date = 2921871600
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+
+[File 0032]
+File Type = "CSource"
+Path = "/c/alexesca/source/scan.c"
+Res Id = 32
+Exclude = False
+Disk Date = 2953653906
+Project Flags = 0
+Window Top = 133
+Window Left = 47
+Window Height = 0
+Window Width = 0
+Source Window State = "0,1305,1305,1305,11,18,11,0,3,130,37,1291,0,1305,19,0,311,0,313,52,"
+
+[File 0033]
+File Type = "Include"
+Path = "/c/alexesca/source/scan.h"
+Res Id = 33
+Exclude = False
+Disk Date = 2953511946
+Project Flags = 0
+Window Top = 78
+Window Left = 36
+Window Height = 0
+Window Width = 0
+Source Window State = "1,101,101,101,29,29,30,0,3,53,0,0,0,0,0,61,47,0,101,29,"
+
+[File 0034]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/scan.uir"
+Res Id = 34
+Exclude = False
+Disk Date = 2953511946
+Project Flags = 0
+Window Top = 30
+Window Left = 145
+Window Height = 622
+Window Width = 857
+
+[File 0035]
+File Type = "Include"
+Path = "/c/alexesca/source/scanh.h"
+Res Id = 35
+Exclude = False
+Disk Date = 2953485262
+Project Flags = 0
+Window Top = 229
+Window Left = -18
+Window Height = 0
+Window Width = 0
+Source Window State = "1,26,26,26,0,3,4,0,0,120,0,0,0,0,0,32,0,0,26,74,"
+
+[File 0036]
+File Type = "CSource"
+Path = "/c/alexesca/source/stepper.c"
+Res Id = 36
+Exclude = False
+Disk Date = 2953291302
+Project Flags = 0
+Window Top = 117
+Window Left = 54
+Window Height = 0
+Window Width = 0
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,15,0,25,34,"
+
+[File 0037]
+File Type = "Include"
+Path = "/c/alexesca/source/stepper.h"
+Res Id = 37
+Exclude = False
+Disk Date = 2947616674
+Project Flags = 0
+Window Top = 255
+Window Left = 126
+Window Height = 0
+Window Width = 0
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,"
+
+[File 0038]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/stepper.uir"
+Res Id = 38
+Exclude = False
+Disk Date = 2947616674
+Project Flags = 0
+Window Top = 62
+Window Left = 248
+Window Height = 515
+Window Width = 700
+
+[File 0039]
+File Type = "Include"
+Path = "/c/alexesca/source/stepperh.h"
+Res Id = 39
+Exclude = False
+Disk Date = 2939647626
+Project Flags = 0
+Window Top = 255
+Window Left = 96
+Window Height = 0
+Window Width = 0
+Source Window State = "1,8,8,8,40,49,40,0,0,80,0,0,0,0,0,25,0,0,9,63,"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Max Number Of Errors = 10
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = True
+
+[Run Options]
+Stack Size = 16384
+Debugging Level = "None"
+Save Changes Before Running = "Always"
+Break On Library Errors = True
+Hide Windows = False
+Reload DLLs Before Each Run = True
+Check Disk Dates Before Each Run = True
+Break At First Statement = False
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Command Line Args]
+Command Line Args = ""
+
+[Included Headers]
+Header 0004 = "/c/alexesca/source/alexmisc.h"
+Header 0023 = "/c/alexesca/source/alex_ini.h"
+Header 0025 = "/c/alexesca/source/aper.h"
+Header 0028 = "/c/alexesca/source/aperh.h"
+Header 0026 = "/c/alexesca/source/define.h"
+Header 0029 = "/c/alexesca/source/detectoh.h"
+Header 0030 = "/c/alexesca/source/detector.h"
+Header 0031 = "/c/alexesca/source/esca.h"
+Header 0032 = "/c/alexesca/source/escah.h"
+Header 0027 = "/c/alexesca/source/globals.h"
+Header 0038 = "/c/alexesca/source/light.h"
+Header 0037 = "/c/alexesca/source/lighth.h"
+Header 0042 = "/c/alexesca/source/param.h"
+Header 0034 = "/c/alexesca/source/paramh.h"
+Header 0043 = "/c/alexesca/source/power.h"
+Header 0033 = "/c/alexesca/source/powerh.h"
+Header 0035 = "/c/alexesca/source/scanh.h"
+Header 0036 = "/c/alexesca/source/stepperh.h"
+Header 0001 = "/c/cvi/include/ansi/stdlib.h"
+Header 0002 = "/c/cvi/include/cvidef.h"
+Header 0003 = "/c/cvi/include/cvirte.h"
+Header 0005 = "/c/alexesca/source/analysis.h"
+Header 0006 = "/c/cvi/include/userint.h"
+Header 0007 = "/c/cvi/include/ansi_c.h"
+Header 0008 = "/c/cvi/include/ansi/assert.h"
+Header 0009 = "/c/cvi/include/ansi/ctype.h"
+Header 0010 = "/c/cvi/include/ansi/errno.h"
+Header 0011 = "/c/cvi/include/ansi/float.h"
+Header 0012 = "/c/cvi/include/ansi/limits.h"
+Header 0013 = "/c/cvi/include/ansi/locale.h"
+Header 0014 = "/c/cvi/include/ansi/math.h"
+Header 0015 = "/c/cvi/include/ansi/setjmp.h"
+Header 0016 = "/c/cvi/include/ansi/signal.h"
+Header 0017 = "/c/cvi/include/ansi/stdarg.h"
+Header 0018 = "/c/cvi/include/ansi/stddef.h"
+Header 0019 = "/c/cvi/include/ansi/stdio.h"
+Header 0020 = "/c/cvi/include/ansi/string.h"
+Header 0021 = "/c/cvi/include/ansi/time.h"
+Header 0022 = "/c/cvi/include/utility.h"
+Header 0024 = "/c/cvi/include/easyio.h"
+Header 0039 = "/c/cvi/toolslib/toolbox/inifile.h"
+Header 0040 = "/c/cvi/toolslib/toolbox/toolbox.h"
+Header 0041 = "/c/cvi/include/formatio.h"
+Max Header Number = 43
+
+[Create Executable]
+Executable File = "/c/alexesca/source/alexesc2.exe"
+Icon File = "/c/alexesca/source/esca32d.ico"
+Application Title = "ESCA 2.0"
+

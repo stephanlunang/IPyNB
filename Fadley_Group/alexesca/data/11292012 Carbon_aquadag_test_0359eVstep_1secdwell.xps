@@ -1,0 +1,25 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= <none> 
+Number_of_Regions_in_Experiment= 1 
+
+Original_File_name= C:\alexesca\data\11292012 Carbon_aquadag_test_0359eVstep_1secdwell.xps 
+Instrument= HP ESCA West
+Date= 11-29-2012
+Time=  14:50:47
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = Carbon 1s calib test .0359 step 1 sec dwell
+BEcenter(eV) = 292.000000
+BEwidth(eV) = 9.200000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 5  
+N_o_Channels = 256  
+Scan_mode = 0  (DITHERED)
+

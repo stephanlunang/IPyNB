@@ -1,0 +1,150 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= Third_11-20 
+Number_of_Regions_in_Experiment= 10 
+
+Original_File_name= C:\alexesca\data\New Folder\SecondDataSet552eV.xps 
+Instrument= HP ESCA West
+Date= 11-10-2014
+Time=  14:29:14
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 2 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 3 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 4 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 5 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 6 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 7 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 8 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 9 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ Region 10 Parameters ]
+Region_Description = Noise552eV                         
+BEcenter(eV) = 552.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035938
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ L= 1 R= 1 ]
+BEcenter= 552.000 
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 256.000 
+Size= 28
+552.485  1.10000000e+01 
+552.449  1.40000000e+01 
+552.413  5.00000000e+00 
+552.377  1.30000000e+01 
+552.341  1.10000000e+01 
+552.305  9.00000000e+00 
+552.270  9.00000000e+00 
+552.234  1.00000000e+01 
+552.198  1.00000000e+01 
+552.162  1.30000000e+01 
+552.126  1.10000000e+01 
+552.090  1.00000000e+01 
+552.054  1.30000000e+01 
+552.018  1.00000000e+01 
+551.982  1.10000000e+01 
+551.946  1.20000000e+01 
+551.910  7.00000000e+00 
+551.874  5.00000000e+00 
+551.838  1.00000000e+01 
+551.802  1.30000000e+01 
+551.766  1.10000000e+01 
+551.730  1.00000000e+01 
+551.695  1.50000000e+01 
+551.659  8.00000000e+00 
+551.623  1.30000000e+01 
+551.587  6.00000000e+00 
+551.551  6.00000000e+00 
+551.515  1.30000000e+01 
+

@@ -1,0 +1,25 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= <none> 
+Number_of_Regions_in_Experiment= 1 
+
+Original_File_name= C:\alexesca\data\q.xps 
+Instrument= HP ESCA West
+Date= 08-28-2014
+Time=  17:56:58
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = <Quick>                            
+BEcenter(eV) = 800.000000
+BEwidth(eV) = 50.000000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 1  
+N_o_Channels = 1391  
+Scan_mode = 0  (DITHERED)
+

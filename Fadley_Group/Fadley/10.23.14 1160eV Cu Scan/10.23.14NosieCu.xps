@@ -1,0 +1,60 @@
+EXPERIMENT FILE
+Version = 2
+
+[ Experiment Parameters ]
+Experiment Description= <none> 
+Number_of_Regions_in_Experiment= 1 
+
+Original_File_name= C:\alexesca\data\Noise Scans\10.23.14 1160eV Cu Scan\10.23.14NosieCu.xps 
+Instrument= HP ESCA West
+Date= 10-23-2014
+Time=  17:31:34
+
+[ Layer Parameters ]
+Layer_Type= XPS
+
+[ Region 1 Parameters ]
+Region_Description = 1160eV Cu Noise                    
+BEcenter(eV) = 1160.000000
+BEwidth(eV) = 1.000000
+BEstep(eV) = 0.035937
+Dwell_Time(sec) = 1.000000
+N_o_scans = 500  
+N_o_Channels = 28  
+Scan_mode = 0  (DITHERED)
+
+[ L= 1 R= 1 ]
+BEcenter= 1160.000
+BEwidth= -0.970  
+Excitation= 1486.600
+Time_p_channel= 128000.000
+Size= 28
+1160.485 3.41394100e+06 
+1160.449 3.41353100e+06 
+1160.413 3.41280700e+06 
+1160.377 3.41489400e+06 
+1160.341 3.41420600e+06 
+1160.305 3.41206900e+06 
+1160.270 3.41467000e+06 
+1160.234 3.41238000e+06 
+1160.198 3.41113700e+06 
+1160.162 3.41133100e+06 
+1160.126 3.41465600e+06 
+1160.090 3.41094300e+06 
+1160.054 3.41139300e+06 
+1160.018 3.40965200e+06 
+1159.982 3.41178500e+06 
+1159.946 3.41193400e+06 
+1159.910 3.41240400e+06 
+1159.874 3.41201800e+06 
+1159.838 3.41002900e+06 
+1159.802 3.40864400e+06 
+1159.766 3.41112100e+06 
+1159.730 3.41069000e+06 
+1159.695 3.41004700e+06 
+1159.659 3.40899400e+06 
+1159.623 3.40956500e+06 
+1159.587 3.40946100e+06 
+1159.551 3.40549800e+06 
+1159.515 3.40636300e+06 
+

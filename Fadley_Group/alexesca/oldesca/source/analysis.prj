@@ -1,0 +1,186 @@
+[Project Header]
+Version = 401
+Platform Code = 1
+Pathname = "/c/alexesca/source/analysis.prj"
+CVI Dir = "/c/cvi"
+VXIplug&play Framework Dir = "/c/vxipnp/win"
+Number of Files = 8
+Sort Type = "No Sort"
+Flags = 16
+Drag Bar Left = 109
+Window Top = 39
+Window Left = 22
+Window Bottom = 669
+Window Right = 460
+
+[File 0001]
+File Type = "Include"
+Path = "/c/alexesca/source/analysih.h"
+Res Id = 1
+Exclude = False
+Disk Date = 2951222132
+Project Flags = 0
+Window Top = 42
+Window Left = 71
+Window Height = 0
+Window Width = 0
+Source Window State = "1,100,100,100,0,42,43,0,0,80,0,0,0,0,0,25,107,6,128,76,"
+
+[File 0002]
+File Type = "CSource"
+Path = "/c/alexesca/source/analysis.c"
+Res Id = 2
+Exclude = False
+Disk Date = 2951231112
+Project Flags = 0
+Window Top = 134
+Window Left = 14
+Window Height = 0
+Window Width = 0
+Source Window State = "1,1630,1630,1630,12,17,18,0,3,128,26,386,0,404,13,11,1625,0,1630,12,"
+Header Dependencies = "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,"
+
+[File 0003]
+File Type = "CSource"
+Path = "/c/alexesca/source/alex_ini.c"
+Res Id = 3
+Exclude = False
+Disk Date = 2950985406
+Project Flags = 0
+Window Top = 29
+Window Left = 50
+Window Height = 0
+Window Width = 0
+Source Window State = "1,428,497,428,0,-1,0,0,0,88,0,0,0,0,0,46,383,0,428,0,"
+Header Dependencies = "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,26,27,"
+
+[File 0004]
+File Type = "Include"
+Path = "/c/alexesca/source/alex_ini.h"
+Res Id = 4
+Exclude = False
+Disk Date = 2941731834
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0005]
+File Type = "User Interface Resource"
+Path = "/c/alexesca/source/analyze.uir"
+Res Id = 5
+Exclude = False
+Disk Date = 2951222800
+Project Flags = 0
+Window Top = 39
+Window Left = 27
+Window Height = 687
+Window Width = 974
+
+[File 0006]
+File Type = "Include"
+Path = "/c/alexesca/source/analyze.h"
+Res Id = 6
+Exclude = False
+Disk Date = 2951222092
+Project Flags = 0
+Window Top = 0
+Window Left = 0
+Window Height = 0
+Window Width = 0
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0007]
+File Type = "CSource"
+Path = "/c/alexesca/source/math_lib.c"
+Res Id = 7
+Exclude = False
+Disk Date = 2951149952
+Project Flags = 0
+Window Top = 24
+Window Left = 144
+Window Height = 0
+Window Width = 0
+Source Window State = "1,572,572,572,23,67,23,0,0,101,0,1,0,1,0,47,538,0,572,59,"
+Header Dependencies = "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,25,"
+Breakpoint 0001 = "257,0,disabled,"
+
+[File 0008]
+File Type = "Include"
+Path = "/c/alexesca/source/math_lib.h"
+Res Id = 8
+Exclude = False
+Disk Date = 2951144950
+Project Flags = 0
+Window Top = 71
+Window Left = 62
+Window Height = 0
+Window Width = 0
+Source Window State = "1,40,40,40,55,57,55,0,0,87,0,0,0,0,0,25,25,0,40,61,"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Max Number Of Errors = 10
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+
+[Run Options]
+Stack Size = 16384
+Debugging Level = "None"
+Save Changes Before Running = "Always"
+Break On Library Errors = True
+Hide Windows = False
+Reload DLLs Before Each Run = True
+Check Disk Dates Before Each Run = True
+Break At First Statement = False
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Command Line Args]
+Command Line Args = ""
+
+[Included Headers]
+Header 0024 = "/c/alexesca/source/analysih.h"
+Header 0023 = "/c/alexesca/source/alex_ini.h"
+Header 0021 = "/c/alexesca/source/analyze.h"
+Header 0025 = "/c/alexesca/source/math_lib.h"
+Header 0001 = "/c/cvi/include/cvirte.h"
+Header 0002 = "/c/cvi/include/cvidef.h"
+Header 0003 = "/c/cvi/include/ansi_c.h"
+Header 0004 = "/c/cvi/include/ansi/assert.h"
+Header 0005 = "/c/cvi/include/ansi/ctype.h"
+Header 0006 = "/c/cvi/include/ansi/errno.h"
+Header 0007 = "/c/cvi/include/ansi/float.h"
+Header 0008 = "/c/cvi/include/ansi/limits.h"
+Header 0009 = "/c/cvi/include/ansi/locale.h"
+Header 0010 = "/c/cvi/include/ansi/math.h"
+Header 0011 = "/c/cvi/include/ansi/setjmp.h"
+Header 0012 = "/c/cvi/include/ansi/signal.h"
+Header 0013 = "/c/cvi/include/ansi/stdarg.h"
+Header 0014 = "/c/cvi/include/ansi/stddef.h"
+Header 0015 = "/c/cvi/include/ansi/stdio.h"
+Header 0016 = "/c/cvi/include/ansi/stdlib.h"
+Header 0017 = "/c/cvi/include/ansi/string.h"
+Header 0018 = "/c/cvi/include/ansi/time.h"
+Header 0019 = "/c/cvi/include/userint.h"
+Header 0020 = "/c/cvi/include/analysis.h"
+Header 0022 = "/c/alexesca/source/define.h"
+Header 0026 = "/c/alexesca/source/analysis.h"
+Header 0027 = "/c/cvi/include/utility.h"
+Max Header Number = 27
+
+[Create Executable]
+Executable File = "/c/alexesca/source/alex_fit.exe"
+Icon File = "/c/alexesca/source/fit32.ico"
+Application Title = "alex_fit 1.2"
+
